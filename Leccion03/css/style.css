@@ -1,11 +1,19 @@
 h1{
-    color: blue;
+    color: rgba(6, 6, 109, 0.795);
+    text-align: center;
 }
 p{
-    color: white;
+    color: rgb(28, 196, 92);
     background-color: crimson;
     padding: 15px;
-    border: 10px solid powderblue;
-    margin: 50px;
-    
+    border: 10px solid rgb(8, 19, 168);
+    /*
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin 40px 10px 20p 10px;
+*/
+    margin: auto 50px;
+    text-align: center;
 }
