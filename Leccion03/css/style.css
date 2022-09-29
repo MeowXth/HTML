@@ -2,6 +2,10 @@ h1{
     color: blue;
 }
 p{
-    color: brown;
-  /* background-color: crimson;*/
+    color: white;
+    background-color: crimson;
+    padding: 15px;
+    border: 10px solid powderblue;
+    margin: 50px;
+    
 }
