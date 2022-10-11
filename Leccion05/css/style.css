@@ -9,6 +9,25 @@ table, th, td{
 
 
 }
+caption{
+    color: #e66;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+    line-height: 70px;
+}
+th{
+    color: azure;
+    background-color: #1d3557;
+
+}
+/*Reglones pares*/
+tr:nth-child(even){
+    background-color: #f1faee;
+}
+/*Reglones impares*/
+tr:nth-child(odd){
+    background-color:#a8dadc;
+}
 /*
 td{
     text-align: center;
